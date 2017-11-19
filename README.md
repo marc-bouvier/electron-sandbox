@@ -1,4 +1,13 @@
 # test-electron-vue
+Real electron examples
+- https://github.com/Microsoft/vscode
+- https://github.com/atom/atom
+- https://github.com/nylas/nylas-mail
+- https://github.com/railsware/upterm
+- https://github.com/docker/kitematic
+- https://github.com/geeeeeeeeek/electronic-wechat
+- https://github.com/wulkano/kap
+
 
 > An electron-vue project
 
